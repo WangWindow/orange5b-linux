@@ -1,0 +1,3 @@
+[submodule "ubuntu-rockchip"]
+	path = ubuntu-rockchip
+	url = https://github.com/WangWindow/ubuntu-rockchip.git
